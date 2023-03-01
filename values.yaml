@@ -8,4 +8,4 @@ global:
 
 zkm-px:
   config:
-    siteId: "gke_site1"
+    siteId: "eks_site1"
